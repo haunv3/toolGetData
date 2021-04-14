@@ -1,0 +1,14 @@
+# dependencies
+**/node_modules
+
+# production
+/dist
+/.vscode
+yarn.lock
+package-lock.json
+
+# visual studio code
+.env
+
+# screenshot
+images
